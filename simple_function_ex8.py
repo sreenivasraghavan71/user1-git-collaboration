@@ -1,5 +1,5 @@
 def double(n):
-    return 2 * n        #Return twice the given number
+    return 3 * n        #Return twice the given number
 #Call the function with the value of your choice and print its result
 print("To Call this function using its name and assign the value of your choice:\
        You can run the Python interpreter in the directory where you use this Python file\
